@@ -8,9 +8,9 @@
 
 # Build with
 
--Semantic HTML5 markup
--SCSS - BEM
--Desktop-first workflow
+-   Semantic HTML5 markup
+-   SCSS - BEM
+-   Desktop-first workflow
 
 # Author
 
